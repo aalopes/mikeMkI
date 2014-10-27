@@ -1,0 +1,30 @@
+MikeMkI v0.1 (27.10.2014)
+
+Copyright 2014 Alexandre Lopes
+
+<https://github.com/aalopes/>
+-------------------------------------------------------------------------------
+= Description =
+
+Mike Mk I is a collision avoiding robot based on the Arduino board.
+Here is provided the code and schematics for building necessary for building the 
+robot. Schematics for the chassis are, at the moment, not provided but any
+design based on a differentially steered 3 wheeled vehicle should work.
+
+-------------------------------------------------------------------------------
+= Controls =
+
+Simply press and release the available pushbutton to make MikeMkI start moving. 
+It will automatically move backwards when it encounters an obstacle. Press and
+release the pushbutton again to stop MikeMkI.
+
+-------------------------------------------------------------------------------
+= License =
+
+Code is licensed under the GPLv3 license. 
+All other contents are licensed under the CC BY-BY-SA 4.0 license.
+
+See the COPYING file for the license texts.
+
+This is provided "as is", without any warranty.
+-------------------------------------------------------------------------------
